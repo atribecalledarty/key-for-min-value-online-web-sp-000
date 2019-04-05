@@ -13,6 +13,6 @@ def key_for_min_value(name_hash)
   if comp = 10000
     nil
   else
-    comp
-    
+    min_key
+  end
 end
